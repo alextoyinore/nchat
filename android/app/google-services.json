@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1095064852738",
+    "project_id": "nchat-3e988",
+    "storage_bucket": "nchat-3e988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095064852738:android:56a1760fbf2402655cca1b",
+        "android_client_info": {
+          "package_name": "com.example.nchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095064852738-ftbpdngj1tqug5gvhknolt61boffhkpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE77TzwA21yLAoMuIEPhA8bOos-J8SJuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095064852738-ftbpdngj1tqug5gvhknolt61boffhkpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1095064852738-v0bi8etjmodatf8t88dm9hr1nvpcf4qd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
